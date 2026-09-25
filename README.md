@@ -1,4 +1,4 @@
-# VERSION ONE: A Beginner's Workshop on Git
+# Version One: A Beginner's Workshop on Git
 ## Group Collaboration Activity
 
 **Time:** 30 minutes (9:05 AM – 9:35 AM)
